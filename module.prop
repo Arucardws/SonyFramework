@@ -1,7 +1,7 @@
 id=SonyFramework
 name=Sony Framework
 version=v1
-versionCode=1
+versionCode=2
 author=Seyaru Module by eric9401 work
 description=For non Sony-Users contains Sony's Framework
-template=1410
+minMagisk=1500
